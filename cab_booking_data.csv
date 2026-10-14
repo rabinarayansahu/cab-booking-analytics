@@ -1,0 +1,801 @@
+Ride_ID,Ride_Date,Day,City,Vehicle_Type,Payment_Method,Ride_Status,Fare,Rating,Distance_KM,Booking_Channel
+R0001,2026-09-07,7,Hyderabad,Mini,UPI,Completed,35.00,5,23.8,App
+R0002,2026-09-28,28,Delhi,SUV,Wallet,Completed,35.00,5,24.3,App
+R0003,2026-09-07,7,Pune,Bike,UPI,Cancelled by Customer,35.00,3,19.3,Call Center
+R0004,2026-09-29,29,Delhi,Mini,Card,Completed,35.00,4,34.2,Website
+R0005,2026-09-21,21,Pune,Auto,Cash,Completed,35.00,3,28.8,App
+R0006,2026-09-24,24,Pune,Sedan,Cash,Cancelled by Customer,35.00,4,24.3,App
+R0007,2026-09-15,15,Delhi,Mini,Wallet,Cancelled by Customer,35.00,4,25.4,App
+R0008,2026-09-03,3,Pune,Sedan,Card,Completed,35.00,3,3.5,App
+R0009,2026-09-26,26,Delhi,SUV,Card,Completed,35.00,5,9.6,App
+R0010,2026-09-19,19,Hyderabad,SUV,UPI,Cancelled by Customer,35.00,5,28.9,Website
+R0011,2026-09-14,14,Delhi,SUV,UPI,Completed,35.00,5,14.2,Call Center
+R0012,2026-09-13,13,Pune,Bike,UPI,Completed,35.00,4,15.7,App
+R0013,2026-09-13,13,Hyderabad,Auto,Card,Cancelled by Driver,35.00,4,23.9,Call Center
+R0014,2026-09-01,1,Bangalore,SUV,Card,Completed,35.00,4,22.8,Call Center
+R0015,2026-09-03,3,Mumbai,Auto,Card,Completed,35.00,3,26.7,Call Center
+R0016,2026-09-02,2,Hyderabad,Bike,Wallet,Completed,35.00,5,24.8,App
+R0017,2026-09-12,12,Mumbai,Bike,Wallet,Cancelled by Driver,35.00,4,32.6,App
+R0018,2026-09-10,10,Delhi,SUV,UPI,Completed,35.00,4,27.8,Website
+R0019,2026-09-20,20,Delhi,Auto,Card,Completed,35.00,4,3.9,Website
+R0020,2026-09-13,13,Mumbai,Mini,Cash,Completed,35.00,5,14.4,Call Center
+R0021,2026-09-01,1,Delhi,SUV,Wallet,Completed,35.00,5,17.1,Call Center
+R0022,2026-09-08,8,Mumbai,Auto,Cash,Cancelled by Customer,35.00,3,5.6,Website
+R0023,2026-09-26,26,Pune,Sedan,UPI,Completed,35.00,4,28.1,Call Center
+R0024,2026-09-10,10,Delhi,Auto,UPI,Cancelled by Driver,35.00,3,33.6,App
+R0025,2026-09-10,10,Bangalore,Bike,Cash,Completed,35.00,4,24.0,Call Center
+R0026,2026-09-21,21,Bangalore,SUV,Wallet,Cancelled by Driver,35.00,3,13.7,App
+R0027,2026-09-18,18,Delhi,Bike,Wallet,Cancelled by Driver,35.00,5,30.7,App
+R0028,2026-09-04,4,Bangalore,Sedan,Cash,Completed,35.00,3,2.4,Call Center
+R0029,2026-09-20,20,Bangalore,SUV,UPI,Cancelled by Customer,35.00,4,14.4,Call Center
+R0030,2026-09-03,3,Delhi,Sedan,Cash,Completed,35.00,5,11.4,Call Center
+R0031,2026-09-24,24,Mumbai,Auto,Card,Cancelled by Customer,35.00,4,31.7,Website
+R0032,2026-09-07,7,Hyderabad,Auto,UPI,Completed,35.00,4,15.0,Call Center
+R0033,2026-09-28,28,Hyderabad,SUV,Cash,Completed,35.00,4,18.4,App
+R0034,2026-09-06,6,Bangalore,Bike,UPI,Cancelled by Customer,35.00,3,8.5,Website
+R0035,2026-09-07,7,Pune,Sedan,Wallet,Completed,35.00,4,4.9,Call Center
+R0036,2026-09-26,26,Pune,Mini,UPI,Completed,35.00,5,20.3,App
+R0037,2026-09-28,28,Pune,Bike,Wallet,Completed,35.00,4,26.5,Call Center
+R0038,2026-09-15,15,Bangalore,Bike,Card,Cancelled by Driver,35.00,5,22.9,App
+R0039,2026-09-10,10,Pune,Mini,UPI,Completed,35.00,4,23.8,Website
+R0040,2026-09-04,4,Hyderabad,Auto,UPI,Completed,35.00,4,7.7,Call Center
+R0041,2026-09-16,16,Bangalore,Bike,Wallet,Completed,35.00,3,33.4,Website
+R0042,2026-09-05,5,Delhi,Mini,Cash,Completed,35.00,4,23.8,App
+R0043,2026-09-04,4,Delhi,Auto,Cash,Completed,35.00,4,10.7,App
+R0044,2026-09-29,29,Hyderabad,SUV,UPI,Completed,35.00,4,7.6,Website
+R0045,2026-09-15,15,Bangalore,SUV,Wallet,Completed,35.00,3,12.2,Call Center
+R0046,2026-09-10,10,Bangalore,SUV,Cash,Cancelled by Customer,35.00,3,24.6,App
+R0047,2026-09-19,19,Bangalore,Auto,UPI,Completed,35.00,4,20.3,Website
+R0048,2026-09-14,14,Bangalore,Sedan,Wallet,Completed,35.00,4,6.7,Website
+R0049,2026-09-08,8,Delhi,Bike,Cash,Completed,35.00,4,27.7,Call Center
+R0050,2026-09-24,24,Bangalore,Bike,Card,Completed,35.00,4,22.8,Website
+R0051,2026-09-27,27,Mumbai,Bike,Wallet,Completed,35.00,5,13.2,Call Center
+R0052,2026-09-24,24,Bangalore,SUV,Card,Completed,35.00,5,12.3,Website
+R0053,2026-09-15,15,Hyderabad,Sedan,Cash,Completed,35.00,3,16.1,Website
+R0054,2026-09-16,16,Delhi,SUV,Wallet,Cancelled by Customer,35.00,4,19.8,App
+R0055,2026-09-21,21,Hyderabad,SUV,Wallet,Completed,35.00,4,21.6,Website
+R0056,2026-09-28,28,Delhi,Bike,Wallet,Completed,35.00,3,29.1,Call Center
+R0057,2026-09-07,7,Pune,SUV,UPI,Completed,35.00,5,9.9,Call Center
+R0058,2026-09-03,3,Hyderabad,Bike,Wallet,Completed,35.00,5,25.7,App
+R0059,2026-09-28,28,Bangalore,Sedan,UPI,Completed,35.00,4,18.2,App
+R0060,2026-09-27,27,Mumbai,Mini,Cash,Completed,35.00,5,20.8,Website
+R0061,2026-09-25,25,Pune,Sedan,Wallet,Completed,35.00,4,21.1,App
+R0062,2026-09-18,18,Mumbai,Sedan,UPI,Cancelled by Driver,35.00,4,9.9,Call Center
+R0063,2026-09-16,16,Pune,Sedan,UPI,Completed,124.49,4,23.2,App
+R0064,2026-09-12,12,Bangalore,SUV,Cash,Cancelled by Driver,129.51,3,14.3,Call Center
+R0065,2026-09-24,24,Mumbai,Auto,Wallet,Completed,115.33,4,30.1,App
+R0066,2026-09-15,15,Bangalore,Mini,Cash,Cancelled by Customer,92.22,3,18.0,App
+R0067,2026-09-13,13,Mumbai,Sedan,Cash,Cancelled by Customer,140.93,3,13.4,App
+R0068,2026-09-22,22,Mumbai,Auto,Card,Completed,96.86,4,9.1,Call Center
+R0069,2026-09-22,22,Delhi,Bike,Wallet,Cancelled by Customer,143.81,3,6.6,Call Center
+R0070,2026-09-05,5,Mumbai,Bike,Cash,Completed,183.32,3,16.2,App
+R0071,2026-09-19,19,Delhi,Auto,UPI,Cancelled by Customer,179.21,5,33.3,Call Center
+R0072,2026-09-28,28,Mumbai,SUV,Wallet,Cancelled by Driver,150.38,5,33.9,Call Center
+R0073,2026-09-24,24,Hyderabad,Mini,UPI,Cancelled by Customer,162.47,5,17.4,Website
+R0074,2026-09-02,2,Mumbai,Sedan,Wallet,Completed,172.10,5,8.4,Website
+R0075,2026-09-08,8,Hyderabad,Auto,Wallet,Completed,244.64,3,3.1,Website
+R0076,2026-09-08,8,Mumbai,Auto,Cash,Completed,246.83,4,2.5,App
+R0077,2026-09-17,17,Hyderabad,Sedan,UPI,Completed,102.91,3,31.9,Website
+R0078,2026-09-13,13,Pune,Auto,Wallet,Completed,101.70,3,17.0,Website
+R0079,2026-09-29,29,Delhi,Auto,Card,Cancelled by Driver,124.88,4,2.6,Call Center
+R0080,2026-09-11,11,Delhi,Auto,UPI,Completed,105.55,3,4.5,Call Center
+R0081,2026-09-21,21,Bangalore,Auto,UPI,Cancelled by Customer,229.98,4,29.2,Call Center
+R0082,2026-09-09,9,Bangalore,Mini,UPI,Completed,187.69,4,20.7,Call Center
+R0083,2026-09-06,6,Delhi,Mini,Wallet,Completed,234.45,4,13.8,Website
+R0084,2026-09-12,12,Pune,Mini,Cash,Completed,250.85,4,21.0,App
+R0085,2026-09-17,17,Bangalore,SUV,Wallet,Cancelled by Driver,162.08,4,9.6,App
+R0086,2026-09-17,17,Pune,Auto,UPI,Completed,107.07,5,14.8,Website
+R0087,2026-09-16,16,Bangalore,Mini,Card,Completed,142.95,4,28.0,Call Center
+R0088,2026-09-01,1,Hyderabad,Sedan,UPI,Completed,176.70,5,18.1,App
+R0089,2026-09-15,15,Delhi,Bike,Wallet,Cancelled by Customer,194.08,4,6.6,App
+R0090,2026-09-17,17,Delhi,SUV,UPI,Completed,147.74,4,22.9,App
+R0091,2026-09-05,5,Hyderabad,Sedan,Card,Completed,163.43,4,7.4,Website
+R0092,2026-09-20,20,Pune,Sedan,Wallet,Completed,204.93,3,25.4,App
+R0093,2026-09-22,22,Bangalore,Mini,Cash,Completed,154.33,5,8.8,Website
+R0094,2026-09-24,24,Pune,Mini,UPI,Completed,101.78,5,4.9,Call Center
+R0095,2026-09-16,16,Hyderabad,Mini,UPI,Cancelled by Driver,177.43,4,17.3,Call Center
+R0096,2026-09-06,6,Bangalore,SUV,Wallet,Completed,221.22,3,23.0,Website
+R0097,2026-09-01,1,Mumbai,Sedan,Wallet,Cancelled by Driver,111.90,4,9.3,App
+R0098,2026-09-19,19,Delhi,SUV,UPI,Cancelled by Driver,76.21,4,21.1,App
+R0099,2026-09-21,21,Mumbai,SUV,Cash,Completed,112.72,3,18.4,Call Center
+R0100,2026-09-05,5,Hyderabad,Auto,Wallet,Cancelled by Driver,124.85,3,2.9,Website
+R0101,2026-09-30,30,Pune,Bike,Card,Completed,218.34,3,7.1,Website
+R0102,2026-09-20,20,Delhi,Sedan,UPI,Completed,177.47,5,34.0,Call Center
+R0103,2026-09-01,1,Delhi,Bike,Wallet,Completed,216.78,5,30.9,Call Center
+R0104,2026-09-22,22,Pune,Auto,Cash,Completed,164.11,5,28.9,App
+R0105,2026-09-07,7,Bangalore,Auto,Card,Completed,167.05,4,16.3,Website
+R0106,2026-09-28,28,Mumbai,Auto,UPI,Completed,178.82,3,17.4,App
+R0107,2026-09-27,27,Pune,Sedan,Card,Completed,120.90,4,15.0,App
+R0108,2026-09-26,26,Delhi,Bike,UPI,Completed,173.19,5,20.8,App
+R0109,2026-09-20,20,Delhi,Mini,Wallet,Completed,258.27,5,23.4,Website
+R0110,2026-09-06,6,Bangalore,Auto,Wallet,Cancelled by Driver,172.99,4,25.6,Website
+R0111,2026-09-30,30,Pune,Bike,Wallet,Completed,213.79,4,16.4,Call Center
+R0112,2026-09-03,3,Mumbai,Mini,Cash,Completed,214.40,5,8.8,Website
+R0113,2026-09-05,5,Delhi,Bike,Cash,Completed,153.86,4,4.7,App
+R0114,2026-09-17,17,Pune,Bike,Card,Cancelled by Customer,111.52,3,30.2,Call Center
+R0115,2026-09-22,22,Pune,Sedan,UPI,Completed,150.78,3,15.3,App
+R0116,2026-09-20,20,Bangalore,SUV,Wallet,Cancelled by Customer,209.84,4,4.3,Website
+R0117,2026-09-29,29,Pune,Auto,Card,Completed,194.20,4,21.9,App
+R0118,2026-09-29,29,Mumbai,Auto,Cash,Cancelled by Driver,117.03,3,27.7,Call Center
+R0119,2026-09-25,25,Pune,Auto,Cash,Cancelled by Customer,236.21,4,5.0,Website
+R0120,2026-09-22,22,Delhi,Sedan,Wallet,Cancelled by Driver,76.12,3,5.4,Call Center
+R0121,2026-09-18,18,Hyderabad,Bike,Card,Completed,119.93,3,29.1,Call Center
+R0122,2026-09-21,21,Mumbai,Bike,Card,Cancelled by Driver,233.82,4,15.7,Website
+R0123,2026-09-12,12,Delhi,Bike,Wallet,Completed,86.53,3,30.7,Call Center
+R0124,2026-09-17,17,Mumbai,Auto,Wallet,Completed,234.41,4,15.6,Website
+R0125,2026-09-26,26,Pune,Bike,UPI,Completed,92.30,4,27.1,Website
+R0126,2026-09-19,19,Mumbai,SUV,UPI,Completed,224.26,3,28.4,Call Center
+R0127,2026-09-19,19,Mumbai,Auto,UPI,Completed,109.88,5,4.3,App
+R0128,2026-09-09,9,Bangalore,SUV,Card,Cancelled by Customer,210.15,5,17.2,App
+R0129,2026-09-30,30,Hyderabad,Auto,UPI,Completed,200.94,5,30.2,Website
+R0130,2026-09-20,20,Pune,Sedan,UPI,Completed,233.60,5,30.8,Website
+R0131,2026-09-09,9,Delhi,Auto,Card,Completed,185.95,4,7.4,Call Center
+R0132,2026-09-24,24,Pune,Bike,Cash,Cancelled by Driver,151.35,5,27.8,Call Center
+R0133,2026-09-17,17,Pune,SUV,UPI,Completed,187.07,5,5.0,App
+R0134,2026-09-13,13,Mumbai,Mini,Card,Completed,219.12,4,23.3,Call Center
+R0135,2026-09-26,26,Mumbai,Auto,Wallet,Cancelled by Customer,224.57,4,11.7,Website
+R0136,2026-09-04,4,Hyderabad,Auto,UPI,Cancelled by Driver,223.03,4,6.3,Call Center
+R0137,2026-09-19,19,Bangalore,Sedan,Wallet,Cancelled by Driver,178.31,5,9.6,Call Center
+R0138,2026-09-14,14,Mumbai,SUV,Card,Completed,171.13,5,20.2,Call Center
+R0139,2026-09-09,9,Pune,Auto,Card,Completed,183.40,4,34.7,Website
+R0140,2026-09-25,25,Hyderabad,SUV,Card,Completed,101.99,4,7.9,Call Center
+R0141,2026-09-26,26,Pune,Sedan,Card,Completed,256.01,5,20.0,App
+R0142,2026-09-12,12,Hyderabad,Bike,UPI,Completed,125.60,3,20.0,Website
+R0143,2026-09-09,9,Delhi,Sedan,Wallet,Completed,178.82,4,34.6,Call Center
+R0144,2026-09-12,12,Delhi,Bike,Card,Cancelled by Driver,250.96,3,27.3,Website
+R0145,2026-09-24,24,Bangalore,Mini,Wallet,Cancelled by Customer,167.74,3,5.7,Call Center
+R0146,2026-09-04,4,Delhi,Sedan,Wallet,Cancelled by Customer,241.03,3,26.4,Website
+R0147,2026-09-26,26,Mumbai,Mini,Card,Completed,224.88,3,24.8,App
+R0148,2026-09-04,4,Pune,Auto,UPI,Completed,95.76,4,8.3,Website
+R0149,2026-09-26,26,Delhi,SUV,UPI,Completed,212.52,4,12.5,Call Center
+R0150,2026-09-20,20,Hyderabad,Sedan,Card,Completed,148.20,3,24.7,Call Center
+R0151,2026-09-02,2,Delhi,SUV,UPI,Completed,81.26,3,6.5,Call Center
+R0152,2026-09-01,1,Pune,Sedan,Card,Completed,122.69,3,28.3,App
+R0153,2026-09-16,16,Pune,Mini,Wallet,Completed,194.62,5,32.5,Website
+R0154,2026-09-03,3,Pune,SUV,Card,Completed,203.27,4,3.2,App
+R0155,2026-09-12,12,Bangalore,Mini,UPI,Completed,95.21,4,3.7,App
+R0156,2026-09-24,24,Mumbai,Auto,Wallet,Cancelled by Customer,97.79,3,14.1,Website
+R0157,2026-09-20,20,Mumbai,Mini,Cash,Completed,131.20,3,23.3,Website
+R0158,2026-09-23,23,Pune,Sedan,UPI,Completed,117.04,3,33.8,App
+R0159,2026-09-25,25,Bangalore,Mini,UPI,Completed,230.28,3,28.9,Call Center
+R0160,2026-09-16,16,Delhi,Bike,Card,Completed,144.61,4,15.9,App
+R0161,2026-09-28,28,Pune,Bike,Wallet,Completed,97.01,4,23.3,Call Center
+R0162,2026-09-10,10,Hyderabad,Bike,UPI,Completed,190.16,4,7.6,Call Center
+R0163,2026-09-17,17,Mumbai,Sedan,UPI,Completed,189.28,5,18.5,App
+R0164,2026-09-20,20,Delhi,Sedan,UPI,Completed,141.28,5,6.8,App
+R0165,2026-09-12,12,Mumbai,Bike,Cash,Completed,84.35,4,9.1,App
+R0166,2026-09-06,6,Pune,Mini,Cash,Completed,220.97,5,4.0,Website
+R0167,2026-09-25,25,Hyderabad,Bike,Card,Completed,216.09,4,14.6,Call Center
+R0168,2026-09-13,13,Mumbai,Auto,Cash,Completed,146.54,3,14.8,App
+R0169,2026-09-17,17,Pune,Sedan,Cash,Completed,212.46,4,1.5,Call Center
+R0170,2026-09-03,3,Mumbai,SUV,UPI,Completed,201.99,3,32.3,Call Center
+R0171,2026-09-10,10,Bangalore,Sedan,UPI,Completed,236.69,4,25.7,Call Center
+R0172,2026-09-30,30,Bangalore,Bike,UPI,Completed,156.39,5,20.8,Website
+R0173,2026-09-27,27,Delhi,SUV,Card,Completed,162.73,5,10.4,Call Center
+R0174,2026-09-07,7,Bangalore,Mini,UPI,Completed,180.57,4,16.5,Website
+R0175,2026-09-19,19,Pune,Mini,Card,Completed,235.09,3,1.2,App
+R0176,2026-09-14,14,Mumbai,Auto,Card,Completed,230.96,4,18.2,Call Center
+R0177,2026-09-03,3,Hyderabad,Mini,UPI,Completed,87.70,3,18.1,Website
+R0178,2026-09-04,4,Mumbai,Mini,Card,Completed,254.71,3,28.3,Website
+R0179,2026-09-29,29,Pune,Sedan,Wallet,Completed,190.62,5,19.3,Call Center
+R0180,2026-09-09,9,Hyderabad,Auto,Card,Completed,202.48,4,24.6,Website
+R0181,2026-09-19,19,Hyderabad,Mini,Cash,Completed,231.52,5,17.4,App
+R0182,2026-09-25,25,Hyderabad,Mini,Card,Completed,221.18,4,12.5,Website
+R0183,2026-09-22,22,Hyderabad,Auto,UPI,Completed,145.57,5,16.7,Call Center
+R0184,2026-09-28,28,Bangalore,SUV,Wallet,Completed,253.94,3,1.9,App
+R0185,2026-09-09,9,Pune,Mini,Card,Cancelled by Driver,226.72,4,3.3,Call Center
+R0186,2026-09-26,26,Delhi,Sedan,Card,Completed,164.00,4,34.8,Call Center
+R0187,2026-09-23,23,Mumbai,Auto,Card,Completed,131.34,3,8.8,Website
+R0188,2026-09-14,14,Delhi,Mini,Cash,Completed,123.88,4,33.5,Call Center
+R0189,2026-09-18,18,Hyderabad,Bike,Cash,Completed,173.99,4,1.3,Website
+R0190,2026-09-08,8,Hyderabad,Sedan,UPI,Completed,94.81,3,10.8,Website
+R0191,2026-09-22,22,Delhi,Mini,Wallet,Completed,231.96,4,26.5,Website
+R0192,2026-09-03,3,Delhi,Sedan,Card,Completed,219.78,4,19.9,App
+R0193,2026-09-16,16,Bangalore,Bike,Wallet,Cancelled by Customer,239.89,3,11.7,App
+R0194,2026-09-29,29,Delhi,Mini,Cash,Completed,214.83,4,20.5,App
+R0195,2026-09-24,24,Bangalore,Auto,Wallet,Completed,78.73,4,24.2,App
+R0196,2026-09-16,16,Mumbai,Mini,Card,Completed,188.97,3,26.1,App
+R0197,2026-09-24,24,Bangalore,Mini,UPI,Completed,228.97,4,9.2,Website
+R0198,2026-09-07,7,Mumbai,Sedan,Cash,Completed,73.09,5,8.8,App
+R0199,2026-09-27,27,Delhi,Sedan,Cash,Completed,246.59,4,22.0,App
+R0200,2026-09-25,25,Mumbai,Bike,Card,Completed,100.02,4,4.6,App
+R0201,2026-09-22,22,Bangalore,Auto,Card,Completed,156.74,4,33.5,Website
+R0202,2026-09-20,20,Bangalore,Bike,Card,Cancelled by Driver,258.45,4,1.2,Call Center
+R0203,2026-09-02,2,Delhi,Auto,UPI,Completed,151.28,4,29.8,Website
+R0204,2026-09-20,20,Bangalore,Auto,Card,Completed,259.18,3,11.7,Call Center
+R0205,2026-09-28,28,Hyderabad,Bike,Cash,Cancelled by Driver,242.79,3,10.3,App
+R0206,2026-09-25,25,Mumbai,Auto,UPI,Completed,237.61,5,32.1,Website
+R0207,2026-09-13,13,Pune,Bike,Card,Completed,127.35,4,8.6,Call Center
+R0208,2026-09-05,5,Bangalore,Sedan,UPI,Completed,236.14,4,2.8,Website
+R0209,2026-09-16,16,Delhi,Sedan,Wallet,Completed,236.55,5,32.9,App
+R0210,2026-09-17,17,Pune,Bike,Card,Cancelled by Customer,87.73,4,12.8,Call Center
+R0211,2026-09-25,25,Bangalore,SUV,Card,Cancelled by Customer,138.48,5,6.9,App
+R0212,2026-09-23,23,Hyderabad,Auto,Card,Completed,85.66,5,18.6,Website
+R0213,2026-09-23,23,Pune,SUV,Cash,Completed,196.26,5,1.3,Call Center
+R0214,2026-09-07,7,Mumbai,Bike,UPI,Completed,193.29,4,13.9,App
+R0215,2026-09-11,11,Bangalore,SUV,UPI,Completed,79.84,5,13.3,Website
+R0216,2026-09-06,6,Delhi,Auto,Wallet,Completed,188.86,3,19.7,App
+R0217,2026-09-09,9,Hyderabad,Bike,Cash,Completed,207.94,4,17.0,Call Center
+R0218,2026-09-11,11,Mumbai,Mini,Wallet,Completed,213.49,4,13.4,Website
+R0219,2026-09-14,14,Mumbai,SUV,Cash,Cancelled by Driver,151.55,5,8.2,Call Center
+R0220,2026-09-25,25,Pune,SUV,Wallet,Completed,87.33,5,13.7,Website
+R0221,2026-09-09,9,Hyderabad,Mini,Card,Completed,88.08,4,16.3,Call Center
+R0222,2026-09-05,5,Mumbai,Mini,Card,Completed,110.55,5,34.3,Call Center
+R0223,2026-09-08,8,Mumbai,Bike,UPI,Completed,84.81,4,28.7,Call Center
+R0224,2026-09-09,9,Pune,Bike,Wallet,Completed,182.80,4,28.3,Call Center
+R0225,2026-09-14,14,Bangalore,Sedan,Card,Completed,168.69,4,30.1,App
+R0226,2026-09-05,5,Hyderabad,Auto,Cash,Cancelled by Driver,154.56,3,28.2,Call Center
+R0227,2026-09-05,5,Bangalore,Auto,Wallet,Completed,71.53,3,17.1,App
+R0228,2026-09-06,6,Pune,Mini,Wallet,Completed,135.28,3,15.3,App
+R0229,2026-09-29,29,Bangalore,SUV,Cash,Completed,92.91,4,29.9,Call Center
+R0230,2026-09-18,18,Hyderabad,Mini,Wallet,Completed,233.46,4,25.5,Website
+R0231,2026-09-10,10,Delhi,Sedan,Card,Completed,201.87,4,9.5,Call Center
+R0232,2026-09-02,2,Bangalore,Auto,UPI,Completed,160.76,3,14.5,Call Center
+R0233,2026-09-06,6,Pune,Sedan,Cash,Completed,113.50,5,3.0,Website
+R0234,2026-09-16,16,Pune,SUV,UPI,Cancelled by Driver,86.97,4,29.5,App
+R0235,2026-09-15,15,Bangalore,Auto,UPI,Cancelled by Driver,223.13,4,26.3,Website
+R0236,2026-09-12,12,Pune,SUV,UPI,Cancelled by Driver,89.61,5,13.3,Call Center
+R0237,2026-09-30,30,Delhi,Bike,Card,Completed,139.84,3,28.5,Website
+R0238,2026-09-01,1,Hyderabad,Bike,Cash,Completed,126.86,4,15.0,Website
+R0239,2026-09-28,28,Delhi,Auto,Card,Completed,142.72,4,24.1,Call Center
+R0240,2026-09-07,7,Delhi,Sedan,Card,Cancelled by Driver,224.54,5,20.6,Call Center
+R0241,2026-09-21,21,Mumbai,Bike,Card,Cancelled by Driver,236.15,3,19.3,Website
+R0242,2026-09-12,12,Mumbai,SUV,Cash,Cancelled by Driver,191.90,4,12.1,Call Center
+R0243,2026-09-16,16,Delhi,Mini,UPI,Completed,198.66,5,27.3,Website
+R0244,2026-09-29,29,Delhi,Mini,UPI,Completed,83.00,4,3.7,Call Center
+R0245,2026-09-10,10,Mumbai,SUV,Wallet,Completed,177.03,5,16.8,App
+R0246,2026-09-28,28,Delhi,SUV,Card,Cancelled by Driver,185.96,3,6.7,Website
+R0247,2026-09-14,14,Delhi,Sedan,Cash,Completed,101.18,4,22.5,Call Center
+R0248,2026-09-13,13,Pune,Mini,Card,Completed,136.73,5,29.9,App
+R0249,2026-09-03,3,Hyderabad,Mini,UPI,Completed,110.48,5,6.5,App
+R0250,2026-09-11,11,Bangalore,Auto,UPI,Cancelled by Driver,212.17,3,11.8,Website
+R0251,2026-09-23,23,Delhi,Mini,UPI,Completed,244.78,4,10.1,Call Center
+R0252,2026-09-13,13,Hyderabad,Auto,Cash,Completed,187.05,4,10.2,Website
+R0253,2026-09-25,25,Hyderabad,SUV,Cash,Completed,154.05,4,30.3,Website
+R0254,2026-09-24,24,Hyderabad,SUV,UPI,Completed,111.28,4,21.0,Website
+R0255,2026-09-14,14,Delhi,Auto,UPI,Completed,240.35,3,6.7,App
+R0256,2026-09-05,5,Mumbai,Sedan,Cash,Completed,96.60,4,25.7,Call Center
+R0257,2026-09-09,9,Mumbai,SUV,Wallet,Cancelled by Driver,93.40,4,33.0,Call Center
+R0258,2026-09-24,24,Delhi,Bike,UPI,Completed,208.70,3,3.7,App
+R0259,2026-09-13,13,Delhi,Sedan,Wallet,Completed,136.79,3,4.5,App
+R0260,2026-09-30,30,Delhi,Mini,Cash,Completed,151.58,5,30.9,Call Center
+R0261,2026-09-02,2,Mumbai,Bike,Cash,Completed,220.30,3,1.9,Website
+R0262,2026-09-17,17,Delhi,Mini,Cash,Completed,117.08,4,27.0,App
+R0263,2026-09-04,4,Mumbai,Auto,Card,Completed,192.48,5,9.9,App
+R0264,2026-09-03,3,Mumbai,SUV,Cash,Completed,117.15,3,23.3,Website
+R0265,2026-09-10,10,Pune,Auto,Cash,Completed,184.19,4,8.8,Call Center
+R0266,2026-09-10,10,Bangalore,Auto,UPI,Completed,207.02,4,16.1,App
+R0267,2026-09-05,5,Delhi,SUV,UPI,Completed,124.13,5,18.9,App
+R0268,2026-09-01,1,Bangalore,Bike,Wallet,Completed,248.84,4,2.2,Website
+R0269,2026-09-28,28,Pune,Mini,Cash,Completed,75.10,3,32.1,Website
+R0270,2026-09-15,15,Hyderabad,Mini,Card,Completed,230.94,4,34.1,Call Center
+R0271,2026-09-30,30,Mumbai,Mini,Wallet,Completed,236.41,3,10.3,Website
+R0272,2026-09-05,5,Bangalore,Bike,Wallet,Completed,109.03,4,34.0,Call Center
+R0273,2026-09-18,18,Delhi,SUV,UPI,Cancelled by Driver,185.32,4,7.0,Call Center
+R0274,2026-09-15,15,Hyderabad,Mini,Wallet,Completed,105.84,4,22.5,Call Center
+R0275,2026-09-29,29,Mumbai,SUV,Cash,Completed,144.43,3,20.2,Call Center
+R0276,2026-09-21,21,Pune,Auto,Wallet,Completed,192.77,4,22.7,Website
+R0277,2026-09-30,30,Bangalore,Sedan,Wallet,Completed,218.92,4,12.8,Call Center
+R0278,2026-09-08,8,Pune,SUV,Cash,Completed,220.82,4,28.4,Website
+R0279,2026-09-10,10,Hyderabad,Mini,UPI,Completed,115.47,4,13.4,Website
+R0280,2026-09-05,5,Pune,Mini,UPI,Completed,143.32,4,11.3,App
+R0281,2026-09-17,17,Bangalore,Bike,Cash,Completed,115.81,4,28.7,App
+R0282,2026-09-12,12,Pune,SUV,Cash,Completed,191.24,4,10.7,Call Center
+R0283,2026-09-01,1,Pune,Auto,UPI,Completed,83.49,4,24.4,Website
+R0284,2026-09-25,25,Mumbai,Mini,Cash,Cancelled by Driver,238.86,4,17.2,App
+R0285,2026-09-25,25,Delhi,Sedan,Cash,Cancelled by Driver,72.29,3,15.6,Website
+R0286,2026-09-20,20,Hyderabad,Auto,Wallet,Completed,138.61,5,8.9,App
+R0287,2026-09-18,18,Bangalore,Mini,Card,Completed,130.13,4,13.7,Website
+R0288,2026-09-29,29,Pune,Mini,Wallet,Completed,143.50,5,20.1,Website
+R0289,2026-09-08,8,Delhi,SUV,UPI,Completed,229.40,5,6.6,Call Center
+R0290,2026-09-21,21,Delhi,Auto,Cash,Completed,149.96,4,14.3,Website
+R0291,2026-09-08,8,Mumbai,Auto,Card,Completed,173.81,3,9.9,Website
+R0292,2026-09-21,21,Pune,Sedan,UPI,Completed,102.83,4,9.1,Call Center
+R0293,2026-09-26,26,Bangalore,Bike,Card,Completed,159.49,3,24.6,Website
+R0294,2026-09-10,10,Bangalore,SUV,UPI,Completed,257.60,5,23.0,Call Center
+R0295,2026-09-26,26,Delhi,Bike,Card,Cancelled by Customer,83.87,5,10.1,App
+R0296,2026-09-28,28,Delhi,Auto,Wallet,Completed,181.60,4,3.3,App
+R0297,2026-09-10,10,Pune,Sedan,UPI,Completed,72.62,5,4.8,Website
+R0298,2026-09-20,20,Pune,Bike,Wallet,Completed,110.99,5,16.4,Call Center
+R0299,2026-09-20,20,Bangalore,Mini,UPI,Completed,245.29,3,17.7,Website
+R0300,2026-09-01,1,Pune,SUV,Card,Completed,250.25,5,6.2,Call Center
+R0301,2026-09-01,1,Bangalore,SUV,UPI,Completed,145.62,4,7.3,App
+R0302,2026-09-10,10,Delhi,SUV,Cash,Completed,124.43,4,10.2,Call Center
+R0303,2026-09-15,15,Mumbai,SUV,Cash,Completed,205.40,3,25.7,App
+R0304,2026-09-03,3,Mumbai,Auto,Cash,Cancelled by Customer,215.75,5,6.1,Website
+R0305,2026-09-07,7,Bangalore,Bike,UPI,Completed,150.48,5,12.6,Website
+R0306,2026-09-26,26,Bangalore,Mini,Card,Completed,146.43,4,28.2,Website
+R0307,2026-09-15,15,Hyderabad,Sedan,UPI,Completed,191.70,4,24.7,App
+R0308,2026-09-11,11,Bangalore,Mini,Card,Completed,172.15,4,3.7,App
+R0309,2026-09-02,2,Hyderabad,Mini,UPI,Completed,99.01,4,10.1,Website
+R0310,2026-09-03,3,Delhi,Mini,Cash,Completed,85.88,4,19.5,App
+R0311,2026-09-07,7,Mumbai,Bike,Wallet,Completed,85.01,3,31.5,Website
+R0312,2026-09-27,27,Pune,Mini,Cash,Completed,244.98,4,14.0,App
+R0313,2026-09-04,4,Pune,Auto,Wallet,Completed,255.12,4,34.1,Call Center
+R0314,2026-09-08,8,Delhi,SUV,Card,Completed,99.52,3,14.1,Website
+R0315,2026-09-08,8,Pune,Mini,UPI,Completed,132.08,5,26.1,App
+R0316,2026-09-07,7,Hyderabad,Sedan,Card,Completed,181.42,4,16.7,App
+R0317,2026-09-17,17,Bangalore,Auto,Wallet,Completed,215.01,4,23.6,App
+R0318,2026-09-16,16,Delhi,Mini,Wallet,Completed,193.47,4,14.2,Website
+R0319,2026-09-30,30,Pune,Sedan,UPI,Completed,192.20,3,12.0,Call Center
+R0320,2026-09-24,24,Delhi,SUV,Cash,Completed,128.93,4,2.4,Call Center
+R0321,2026-09-17,17,Mumbai,Auto,Cash,Completed,153.12,3,5.2,Website
+R0322,2026-09-21,21,Hyderabad,Auto,Cash,Completed,251.15,3,11.2,Website
+R0323,2026-09-29,29,Hyderabad,SUV,UPI,Cancelled by Customer,115.34,4,2.8,Call Center
+R0324,2026-09-07,7,Delhi,Sedan,Wallet,Completed,116.45,4,34.1,App
+R0325,2026-09-21,21,Pune,Sedan,Wallet,Cancelled by Driver,245.68,3,15.8,App
+R0326,2026-09-06,6,Delhi,Bike,Cash,Completed,92.04,4,28.0,Call Center
+R0327,2026-09-04,4,Bangalore,Bike,UPI,Completed,186.34,4,14.5,App
+R0328,2026-09-01,1,Delhi,Bike,UPI,Completed,80.46,5,33.9,Call Center
+R0329,2026-09-26,26,Hyderabad,SUV,Cash,Cancelled by Driver,196.56,3,24.5,Call Center
+R0330,2026-09-20,20,Pune,Mini,Card,Cancelled by Driver,195.03,3,6.3,App
+R0331,2026-09-08,8,Bangalore,SUV,Cash,Completed,103.37,3,6.4,App
+R0332,2026-09-22,22,Mumbai,Bike,UPI,Cancelled by Customer,72.41,4,22.0,Call Center
+R0333,2026-09-02,2,Delhi,Mini,Card,Completed,96.07,4,3.0,Call Center
+R0334,2026-09-05,5,Pune,Mini,Card,Completed,72.16,4,24.8,App
+R0335,2026-09-05,5,Mumbai,Auto,Wallet,Cancelled by Customer,164.32,4,17.6,Website
+R0336,2026-09-18,18,Pune,Bike,UPI,Completed,135.87,5,27.8,Website
+R0337,2026-09-26,26,Mumbai,Bike,Card,Completed,168.27,5,31.3,Call Center
+R0338,2026-09-07,7,Pune,SUV,UPI,Completed,226.28,5,1.7,Website
+R0339,2026-09-12,12,Mumbai,Mini,Wallet,Cancelled by Customer,119.26,3,25.6,Website
+R0340,2026-09-29,29,Mumbai,Auto,UPI,Completed,140.66,4,2.3,Call Center
+R0341,2026-09-15,15,Bangalore,Auto,UPI,Completed,212.46,4,20.0,Call Center
+R0342,2026-09-23,23,Pune,Sedan,Cash,Completed,235.96,4,17.7,Call Center
+R0343,2026-09-06,6,Bangalore,Mini,Cash,Cancelled by Driver,209.26,5,19.5,Website
+R0344,2026-09-24,24,Pune,Auto,Wallet,Completed,92.43,4,16.9,Call Center
+R0345,2026-09-30,30,Hyderabad,Bike,UPI,Completed,240.98,5,30.3,App
+R0346,2026-09-03,3,Mumbai,Auto,Card,Completed,133.65,4,19.1,Website
+R0347,2026-09-10,10,Hyderabad,Mini,Card,Cancelled by Driver,151.57,4,28.9,Call Center
+R0348,2026-09-12,12,Delhi,Mini,UPI,Completed,169.53,3,16.4,Call Center
+R0349,2026-09-17,17,Bangalore,SUV,UPI,Completed,119.96,5,13.9,App
+R0350,2026-09-29,29,Pune,Auto,Wallet,Completed,255.26,4,1.6,Website
+R0351,2026-09-25,25,Mumbai,Bike,Wallet,Completed,189.23,4,22.1,Website
+R0352,2026-09-24,24,Mumbai,Auto,Wallet,Completed,164.27,4,3.2,Call Center
+R0353,2026-09-27,27,Bangalore,Bike,UPI,Completed,167.05,4,14.2,Call Center
+R0354,2026-09-22,22,Mumbai,Mini,Wallet,Completed,80.53,5,17.9,Call Center
+R0355,2026-09-05,5,Mumbai,SUV,Wallet,Cancelled by Customer,233.28,4,21.8,Website
+R0356,2026-09-14,14,Mumbai,Auto,Cash,Completed,101.71,3,22.8,App
+R0357,2026-09-04,4,Delhi,Mini,Card,Completed,99.89,3,18.8,App
+R0358,2026-09-02,2,Pune,Bike,Wallet,Cancelled by Driver,216.93,4,29.4,App
+R0359,2026-09-06,6,Bangalore,Auto,Card,Completed,239.91,4,30.7,App
+R0360,2026-09-04,4,Bangalore,Mini,Wallet,Completed,198.08,4,17.5,App
+R0361,2026-09-02,2,Bangalore,Mini,Card,Completed,91.91,5,20.4,Website
+R0362,2026-09-22,22,Mumbai,Mini,Wallet,Completed,210.75,4,17.7,Call Center
+R0363,2026-09-23,23,Delhi,Auto,Cash,Completed,70.49,4,21.1,App
+R0364,2026-09-12,12,Hyderabad,SUV,Wallet,Completed,233.15,4,8.5,Call Center
+R0365,2026-09-03,3,Delhi,Sedan,Cash,Completed,72.33,4,1.4,App
+R0366,2026-09-21,21,Delhi,Auto,Card,Completed,78.74,4,17.7,App
+R0367,2026-09-15,15,Bangalore,Mini,Cash,Cancelled by Customer,139.16,4,28.2,App
+R0368,2026-09-12,12,Hyderabad,Mini,Card,Completed,244.84,4,20.0,Website
+R0369,2026-09-27,27,Bangalore,Auto,Card,Completed,104.00,4,13.5,Call Center
+R0370,2026-09-02,2,Mumbai,Sedan,Cash,Completed,252.47,5,29.0,Website
+R0371,2026-09-17,17,Pune,SUV,UPI,Cancelled by Driver,76.72,5,2.4,App
+R0372,2026-09-27,27,Pune,Bike,Cash,Cancelled by Customer,222.59,4,11.3,App
+R0373,2026-09-17,17,Hyderabad,Mini,UPI,Cancelled by Driver,205.66,4,4.3,Call Center
+R0374,2026-09-08,8,Mumbai,SUV,Wallet,Completed,194.58,5,19.1,App
+R0375,2026-09-07,7,Hyderabad,SUV,Wallet,Completed,112.66,5,18.9,App
+R0376,2026-09-19,19,Delhi,Bike,Wallet,Completed,117.17,5,22.3,App
+R0377,2026-09-18,18,Delhi,SUV,Card,Completed,244.01,4,26.5,Website
+R0378,2026-09-24,24,Mumbai,SUV,Card,Cancelled by Driver,130.79,4,4.6,Call Center
+R0379,2026-09-19,19,Bangalore,Auto,Wallet,Cancelled by Customer,226.94,3,13.2,Website
+R0380,2026-09-23,23,Mumbai,Mini,Card,Cancelled by Driver,178.59,3,23.6,App
+R0381,2026-09-06,6,Delhi,Auto,UPI,Completed,92.69,4,27.9,Call Center
+R0382,2026-09-13,13,Mumbai,SUV,Card,Completed,197.93,4,18.2,Call Center
+R0383,2026-09-06,6,Hyderabad,Bike,Card,Cancelled by Customer,80.01,5,19.2,Call Center
+R0384,2026-09-15,15,Delhi,Bike,UPI,Cancelled by Driver,112.41,5,32.7,Website
+R0385,2026-09-18,18,Bangalore,Mini,Cash,Completed,168.00,3,34.7,Website
+R0386,2026-09-28,28,Pune,Bike,Card,Completed,78.73,5,13.6,Call Center
+R0387,2026-09-14,14,Delhi,Bike,Cash,Cancelled by Driver,146.18,5,29.1,Website
+R0388,2026-09-20,20,Bangalore,SUV,Cash,Completed,236.63,4,9.2,Call Center
+R0389,2026-09-07,7,Bangalore,Sedan,Cash,Completed,234.55,4,13.8,Call Center
+R0390,2026-09-30,30,Hyderabad,Auto,Wallet,Completed,216.97,5,26.3,Website
+R0391,2026-09-15,15,Mumbai,Sedan,Card,Completed,129.03,3,16.2,Website
+R0392,2026-09-01,1,Mumbai,Mini,UPI,Cancelled by Customer,86.41,4,25.7,Website
+R0393,2026-09-20,20,Bangalore,Mini,Cash,Completed,156.78,4,1.6,App
+R0394,2026-09-29,29,Mumbai,Bike,Wallet,Completed,140.09,5,11.3,Website
+R0395,2026-09-08,8,Pune,Auto,Card,Cancelled by Customer,125.40,5,8.3,Website
+R0396,2026-09-01,1,Mumbai,Sedan,Cash,Completed,219.06,3,27.2,Call Center
+R0397,2026-09-27,27,Mumbai,Mini,UPI,Completed,210.52,3,10.4,Call Center
+R0398,2026-09-17,17,Hyderabad,Bike,Card,Completed,116.09,3,19.9,Call Center
+R0399,2026-09-05,5,Pune,Auto,UPI,Completed,139.97,3,4.2,Website
+R0400,2026-09-12,12,Delhi,Bike,Wallet,Completed,254.65,5,6.3,Website
+R0401,2026-09-12,12,Mumbai,SUV,Cash,Completed,259.58,4,31.2,App
+R0402,2026-09-08,8,Mumbai,Sedan,UPI,Completed,217.42,5,9.7,Website
+R0403,2026-09-03,3,Pune,SUV,Cash,Cancelled by Driver,209.17,4,20.4,Call Center
+R0404,2026-09-30,30,Hyderabad,Sedan,Wallet,Completed,173.85,4,8.4,App
+R0405,2026-09-24,24,Bangalore,SUV,UPI,Completed,221.23,4,12.0,Website
+R0406,2026-09-06,6,Pune,SUV,UPI,Completed,98.61,3,17.6,Call Center
+R0407,2026-09-23,23,Bangalore,Sedan,Cash,Cancelled by Customer,247.16,4,20.6,App
+R0408,2026-09-20,20,Delhi,Bike,Wallet,Completed,74.54,4,22.8,App
+R0409,2026-09-24,24,Hyderabad,Mini,Wallet,Completed,172.89,4,28.5,Website
+R0410,2026-09-03,3,Hyderabad,SUV,Wallet,Completed,190.83,4,27.5,Website
+R0411,2026-09-12,12,Hyderabad,Sedan,Cash,Cancelled by Customer,201.76,3,30.9,Website
+R0412,2026-09-14,14,Mumbai,Auto,Wallet,Completed,71.82,4,32.6,App
+R0413,2026-09-28,28,Bangalore,SUV,UPI,Completed,133.65,3,27.2,Call Center
+R0414,2026-09-21,21,Mumbai,Auto,Wallet,Cancelled by Customer,214.20,5,29.9,App
+R0415,2026-09-21,21,Mumbai,Sedan,Card,Completed,141.49,4,27.4,Website
+R0416,2026-09-02,2,Mumbai,Mini,UPI,Completed,210.24,4,11.4,App
+R0417,2026-09-11,11,Delhi,Sedan,Card,Cancelled by Customer,128.43,3,19.4,App
+R0418,2026-09-11,11,Delhi,Bike,UPI,Completed,108.99,4,18.1,App
+R0419,2026-09-05,5,Mumbai,Bike,Card,Cancelled by Customer,256.79,4,2.7,Call Center
+R0420,2026-09-13,13,Pune,Auto,Wallet,Completed,149.77,4,34.0,Call Center
+R0421,2026-09-19,19,Hyderabad,Auto,Wallet,Completed,252.63,3,18.2,App
+R0422,2026-09-14,14,Mumbai,Bike,Wallet,Completed,254.79,4,10.9,Website
+R0423,2026-09-05,5,Mumbai,Bike,Card,Cancelled by Customer,97.05,3,5.5,App
+R0424,2026-09-16,16,Bangalore,SUV,Card,Cancelled by Driver,123.17,5,20.4,App
+R0425,2026-09-18,18,Hyderabad,Auto,Cash,Completed,78.34,5,14.6,App
+R0426,2026-09-13,13,Bangalore,Auto,Cash,Cancelled by Customer,113.98,3,18.1,Call Center
+R0427,2026-09-05,5,Delhi,Mini,Wallet,Completed,230.65,4,26.9,Website
+R0428,2026-09-18,18,Delhi,Bike,Card,Completed,148.48,5,7.7,Website
+R0429,2026-09-21,21,Delhi,Auto,Cash,Completed,240.16,4,20.4,Call Center
+R0430,2026-09-20,20,Hyderabad,Sedan,Wallet,Cancelled by Driver,157.11,5,34.9,Call Center
+R0431,2026-09-08,8,Bangalore,Auto,Wallet,Completed,212.10,3,9.2,Website
+R0432,2026-09-25,25,Delhi,Mini,Cash,Completed,180.35,4,15.6,Call Center
+R0433,2026-09-30,30,Bangalore,Auto,Cash,Completed,166.03,5,20.6,App
+R0434,2026-09-22,22,Mumbai,Bike,Cash,Completed,191.07,4,15.1,Website
+R0435,2026-09-12,12,Delhi,Mini,Cash,Completed,144.93,4,7.5,Website
+R0436,2026-09-20,20,Bangalore,SUV,Cash,Cancelled by Customer,182.46,4,23.3,Website
+R0437,2026-09-06,6,Delhi,Bike,Wallet,Completed,81.83,5,34.6,Call Center
+R0438,2026-09-27,27,Hyderabad,SUV,UPI,Completed,195.86,4,34.7,Website
+R0439,2026-09-20,20,Pune,Auto,Card,Cancelled by Customer,94.83,4,6.0,App
+R0440,2026-09-30,30,Mumbai,Bike,Cash,Completed,125.42,4,28.8,App
+R0441,2026-09-22,22,Bangalore,SUV,UPI,Cancelled by Customer,231.67,3,13.7,Call Center
+R0442,2026-09-28,28,Mumbai,Mini,Wallet,Cancelled by Driver,245.95,4,3.9,Call Center
+R0443,2026-09-02,2,Delhi,Sedan,Wallet,Completed,144.66,4,9.3,Call Center
+R0444,2026-09-30,30,Mumbai,Auto,Wallet,Completed,228.06,4,6.0,Website
+R0445,2026-09-01,1,Pune,Mini,UPI,Completed,131.99,4,12.7,App
+R0446,2026-09-10,10,Pune,SUV,UPI,Completed,156.02,3,16.3,App
+R0447,2026-09-11,11,Bangalore,Sedan,Cash,Completed,114.39,3,8.1,Call Center
+R0448,2026-09-07,7,Mumbai,Auto,Wallet,Completed,249.28,5,7.9,Call Center
+R0449,2026-09-25,25,Bangalore,Bike,Cash,Completed,95.86,3,9.8,Website
+R0450,2026-09-20,20,Hyderabad,Sedan,Wallet,Cancelled by Customer,216.33,3,25.8,App
+R0451,2026-09-23,23,Pune,SUV,Wallet,Completed,90.70,5,24.8,App
+R0452,2026-09-13,13,Bangalore,Sedan,Cash,Completed,90.07,3,20.8,Call Center
+R0453,2026-09-17,17,Bangalore,Sedan,Card,Completed,155.42,5,2.5,App
+R0454,2026-09-02,2,Delhi,Mini,Cash,Completed,129.67,4,10.7,Call Center
+R0455,2026-09-20,20,Mumbai,Mini,Wallet,Completed,92.94,3,10.2,Website
+R0456,2026-09-21,21,Mumbai,Mini,Card,Completed,138.07,4,33.1,App
+R0457,2026-09-13,13,Delhi,Bike,Wallet,Completed,216.36,4,23.5,Call Center
+R0458,2026-09-28,28,Delhi,SUV,Cash,Completed,155.86,5,32.0,Website
+R0459,2026-09-28,28,Pune,Bike,UPI,Completed,158.04,4,4.7,Website
+R0460,2026-09-28,28,Mumbai,Sedan,Card,Completed,231.97,3,31.0,Website
+R0461,2026-09-08,8,Bangalore,SUV,Wallet,Completed,87.18,4,34.3,Call Center
+R0462,2026-09-23,23,Delhi,Mini,UPI,Cancelled by Customer,223.44,4,4.4,Website
+R0463,2026-09-16,16,Hyderabad,SUV,UPI,Completed,127.80,3,30.5,Call Center
+R0464,2026-09-03,3,Bangalore,Bike,Card,Completed,203.89,3,7.3,Call Center
+R0465,2026-09-15,15,Pune,Mini,Cash,Completed,184.63,5,20.1,Call Center
+R0466,2026-09-01,1,Mumbai,Sedan,UPI,Completed,110.85,5,2.4,Call Center
+R0467,2026-09-10,10,Pune,Bike,Cash,Completed,232.75,5,12.3,Website
+R0468,2026-09-24,24,Delhi,Bike,Wallet,Completed,98.18,4,6.3,Website
+R0469,2026-09-22,22,Delhi,Mini,UPI,Completed,205.12,3,13.0,Call Center
+R0470,2026-09-10,10,Hyderabad,Bike,UPI,Completed,254.00,4,9.0,Call Center
+R0471,2026-09-09,9,Mumbai,Bike,Cash,Completed,145.29,3,28.6,Call Center
+R0472,2026-09-09,9,Hyderabad,Auto,Card,Completed,79.30,4,30.9,App
+R0473,2026-09-18,18,Bangalore,Mini,Cash,Cancelled by Customer,126.78,5,33.3,App
+R0474,2026-09-05,5,Bangalore,Bike,Cash,Completed,225.82,4,12.6,Website
+R0475,2026-09-22,22,Bangalore,Auto,Cash,Completed,103.03,5,5.7,Call Center
+R0476,2026-09-13,13,Bangalore,Auto,Cash,Cancelled by Driver,250.90,3,18.7,Call Center
+R0477,2026-09-20,20,Hyderabad,Bike,UPI,Completed,232.37,3,30.7,Call Center
+R0478,2026-09-08,8,Delhi,SUV,Card,Cancelled by Driver,175.63,4,15.2,Call Center
+R0479,2026-09-05,5,Bangalore,Bike,Cash,Completed,174.52,4,15.5,Website
+R0480,2026-09-30,30,Mumbai,SUV,Card,Completed,88.00,4,21.6,Website
+R0481,2026-09-18,18,Pune,SUV,Card,Completed,89.36,3,5.5,Call Center
+R0482,2026-09-05,5,Hyderabad,Auto,Cash,Completed,220.82,4,20.8,Call Center
+R0483,2026-09-26,26,Mumbai,Bike,Card,Cancelled by Driver,93.08,4,7.9,App
+R0484,2026-09-10,10,Bangalore,Sedan,UPI,Completed,81.72,4,24.4,Call Center
+R0485,2026-09-30,30,Delhi,Bike,Cash,Completed,218.38,3,5.6,App
+R0486,2026-09-21,21,Delhi,SUV,Wallet,Completed,112.23,5,32.7,App
+R0487,2026-09-11,11,Mumbai,Bike,UPI,Completed,107.65,5,3.3,Call Center
+R0488,2026-09-24,24,Bangalore,Mini,Cash,Completed,146.11,5,5.0,Website
+R0489,2026-09-27,27,Mumbai,Mini,UPI,Completed,200.39,5,30.9,Call Center
+R0490,2026-09-01,1,Pune,Auto,Card,Completed,248.14,5,27.0,Website
+R0491,2026-09-14,14,Delhi,Mini,Wallet,Completed,85.97,5,11.3,Call Center
+R0492,2026-09-30,30,Mumbai,SUV,Card,Completed,181.36,5,28.9,Call Center
+R0493,2026-09-30,30,Bangalore,Bike,Cash,Cancelled by Driver,244.31,4,26.1,App
+R0494,2026-09-25,25,Mumbai,SUV,UPI,Completed,84.25,4,7.4,App
+R0495,2026-09-06,6,Pune,Auto,Cash,Cancelled by Customer,259.46,4,1.9,Call Center
+R0496,2026-09-20,20,Delhi,Auto,Cash,Completed,107.57,4,10.1,Call Center
+R0497,2026-09-20,20,Mumbai,Mini,Card,Cancelled by Customer,192.74,4,8.9,App
+R0498,2026-09-08,8,Bangalore,Bike,UPI,Completed,223.77,5,24.4,Website
+R0499,2026-09-03,3,Delhi,Auto,Cash,Completed,87.48,4,24.4,Website
+R0500,2026-09-05,5,Pune,Bike,Cash,Completed,230.98,4,18.1,Call Center
+R0501,2026-09-16,16,Pune,Sedan,Cash,Completed,223.69,3,25.2,Website
+R0502,2026-09-06,6,Hyderabad,Mini,Wallet,Completed,93.28,4,30.0,Website
+R0503,2026-09-16,16,Delhi,Bike,Wallet,Completed,249.03,4,5.7,App
+R0504,2026-09-08,8,Hyderabad,SUV,UPI,Completed,79.62,3,2.1,App
+R0505,2026-09-30,30,Pune,SUV,UPI,Completed,245.59,4,10.2,Website
+R0506,2026-09-08,8,Bangalore,Mini,Cash,Completed,152.30,3,26.2,App
+R0507,2026-09-25,25,Bangalore,Sedan,Cash,Cancelled by Driver,207.64,5,8.0,App
+R0508,2026-09-30,30,Hyderabad,Mini,Card,Completed,164.26,5,33.5,Website
+R0509,2026-09-28,28,Mumbai,Bike,Cash,Completed,142.72,4,22.0,Call Center
+R0510,2026-09-11,11,Mumbai,Mini,UPI,Completed,151.07,4,30.5,App
+R0511,2026-09-14,14,Pune,Sedan,UPI,Completed,137.25,4,14.8,App
+R0512,2026-09-20,20,Pune,Auto,UPI,Completed,242.58,4,26.0,Website
+R0513,2026-09-24,24,Hyderabad,Mini,UPI,Completed,122.25,5,11.6,Call Center
+R0514,2026-09-24,24,Bangalore,SUV,Cash,Completed,154.74,5,20.4,Call Center
+R0515,2026-09-17,17,Bangalore,Sedan,Wallet,Completed,98.24,5,22.8,Call Center
+R0516,2026-09-26,26,Pune,Bike,Cash,Completed,186.68,3,2.3,App
+R0517,2026-09-15,15,Mumbai,Bike,UPI,Completed,187.23,4,16.5,App
+R0518,2026-09-29,29,Delhi,Bike,Card,Completed,192.98,4,34.9,Call Center
+R0519,2026-09-18,18,Hyderabad,Mini,Card,Completed,164.79,5,14.5,Call Center
+R0520,2026-09-02,2,Bangalore,Mini,Cash,Completed,237.73,4,20.0,Call Center
+R0521,2026-09-25,25,Delhi,Mini,Card,Completed,161.02,5,22.4,App
+R0522,2026-09-07,7,Hyderabad,Mini,Card,Completed,86.67,3,10.9,Website
+R0523,2026-09-29,29,Delhi,SUV,UPI,Completed,142.77,4,11.4,Website
+R0524,2026-09-15,15,Mumbai,Mini,UPI,Cancelled by Customer,149.65,3,6.7,Website
+R0525,2026-09-20,20,Hyderabad,SUV,Wallet,Completed,192.10,5,32.2,Call Center
+R0526,2026-09-17,17,Mumbai,Mini,Card,Completed,221.47,3,31.7,Website
+R0527,2026-09-27,27,Pune,Bike,UPI,Completed,117.34,5,23.0,App
+R0528,2026-09-24,24,Hyderabad,SUV,Wallet,Cancelled by Driver,258.88,5,18.0,App
+R0529,2026-09-25,25,Bangalore,SUV,Card,Completed,173.29,3,20.9,Call Center
+R0530,2026-09-18,18,Delhi,Sedan,UPI,Completed,73.71,4,5.6,Website
+R0531,2026-09-11,11,Pune,Sedan,Wallet,Completed,142.67,3,16.3,App
+R0532,2026-09-15,15,Pune,SUV,Card,Cancelled by Driver,205.54,5,21.1,Call Center
+R0533,2026-09-29,29,Mumbai,Mini,Cash,Completed,161.14,5,7.9,Website
+R0534,2026-09-03,3,Bangalore,Bike,UPI,Completed,218.47,5,9.5,Call Center
+R0535,2026-09-21,21,Hyderabad,Auto,Cash,Cancelled by Customer,135.37,4,31.8,App
+R0536,2026-09-23,23,Mumbai,Auto,UPI,Completed,177.47,5,25.9,App
+R0537,2026-09-04,4,Mumbai,Sedan,Cash,Completed,131.10,5,25.0,Call Center
+R0538,2026-09-12,12,Pune,Bike,Cash,Completed,121.38,4,3.9,Call Center
+R0539,2026-09-13,13,Delhi,Mini,Card,Completed,74.95,5,25.7,Call Center
+R0540,2026-09-20,20,Mumbai,Auto,Card,Completed,183.45,4,33.3,Website
+R0541,2026-09-18,18,Bangalore,Mini,Card,Completed,75.57,4,13.9,App
+R0542,2026-09-30,30,Hyderabad,SUV,Cash,Completed,224.03,4,12.4,Call Center
+R0543,2026-09-28,28,Pune,Mini,Card,Completed,123.38,5,6.1,App
+R0544,2026-09-06,6,Bangalore,Mini,Card,Completed,223.64,3,27.2,App
+R0545,2026-09-14,14,Hyderabad,Mini,UPI,Completed,159.62,3,11.5,Call Center
+R0546,2026-09-25,25,Mumbai,Bike,Wallet,Completed,137.91,3,33.7,Website
+R0547,2026-09-21,21,Hyderabad,Sedan,UPI,Completed,180.96,4,7.1,App
+R0548,2026-09-07,7,Pune,SUV,Card,Completed,114.22,4,1.1,Website
+R0549,2026-09-01,1,Hyderabad,SUV,Card,Completed,100.33,4,16.6,Website
+R0550,2026-09-18,18,Bangalore,Auto,Cash,Completed,117.09,3,28.5,Call Center
+R0551,2026-09-29,29,Mumbai,Auto,UPI,Completed,115.82,5,17.8,App
+R0552,2026-09-19,19,Delhi,Mini,Card,Completed,171.40,4,23.4,Website
+R0553,2026-09-14,14,Delhi,SUV,UPI,Completed,220.34,5,16.0,Call Center
+R0554,2026-09-20,20,Mumbai,SUV,Wallet,Completed,210.04,4,1.2,Call Center
+R0555,2026-09-09,9,Mumbai,SUV,Card,Completed,215.17,4,22.1,Call Center
+R0556,2026-09-27,27,Mumbai,Mini,Cash,Completed,250.08,4,29.1,App
+R0557,2026-09-06,6,Delhi,SUV,UPI,Cancelled by Driver,179.38,3,6.0,Call Center
+R0558,2026-09-12,12,Delhi,Bike,UPI,Completed,256.71,3,2.2,App
+R0559,2026-09-22,22,Pune,Bike,Wallet,Completed,143.80,4,20.7,Call Center
+R0560,2026-09-10,10,Delhi,SUV,UPI,Completed,247.69,4,12.3,App
+R0561,2026-09-02,2,Delhi,Auto,Wallet,Completed,258.39,3,4.7,App
+R0562,2026-09-06,6,Hyderabad,Auto,Card,Completed,103.01,5,23.9,Call Center
+R0563,2026-09-22,22,Mumbai,Mini,Cash,Completed,114.94,4,24.5,Call Center
+R0564,2026-09-19,19,Bangalore,Sedan,Wallet,Completed,130.42,4,27.8,App
+R0565,2026-09-15,15,Delhi,Bike,Card,Completed,210.24,3,26.5,Website
+R0566,2026-09-30,30,Pune,Auto,Cash,Completed,138.17,4,2.2,Website
+R0567,2026-09-11,11,Bangalore,Sedan,UPI,Completed,182.40,4,13.5,Website
+R0568,2026-09-27,27,Delhi,Bike,UPI,Completed,203.66,4,3.3,Website
+R0569,2026-09-27,27,Mumbai,Bike,UPI,Completed,136.82,4,19.7,Website
+R0570,2026-09-16,16,Pune,SUV,Wallet,Completed,177.85,5,5.6,Call Center
+R0571,2026-09-28,28,Bangalore,SUV,Wallet,Completed,97.00,4,10.3,Call Center
+R0572,2026-09-14,14,Pune,Sedan,Wallet,Completed,250.19,4,18.8,Call Center
+R0573,2026-09-07,7,Bangalore,Mini,Cash,Completed,228.97,3,21.8,App
+R0574,2026-09-19,19,Bangalore,Sedan,Cash,Completed,223.98,3,25.8,Call Center
+R0575,2026-09-17,17,Pune,Bike,Card,Completed,254.37,4,34.6,Website
+R0576,2026-09-24,24,Pune,SUV,Wallet,Completed,173.00,5,24.4,Call Center
+R0577,2026-09-10,10,Bangalore,Mini,Cash,Completed,103.36,3,15.5,Website
+R0578,2026-09-09,9,Hyderabad,Mini,Card,Completed,77.21,4,18.9,Call Center
+R0579,2026-09-12,12,Mumbai,Sedan,Card,Completed,80.67,5,32.5,Call Center
+R0580,2026-09-19,19,Hyderabad,Auto,Card,Completed,184.32,4,17.9,Call Center
+R0581,2026-09-21,21,Mumbai,Sedan,Cash,Completed,73.79,3,17.9,App
+R0582,2026-09-29,29,Mumbai,Mini,Wallet,Completed,160.82,5,21.7,Call Center
+R0583,2026-09-10,10,Mumbai,Auto,Cash,Cancelled by Driver,133.03,4,34.3,App
+R0584,2026-09-04,4,Hyderabad,Bike,Card,Completed,186.69,5,1.8,Call Center
+R0585,2026-09-26,26,Bangalore,SUV,Cash,Completed,223.22,4,5.0,App
+R0586,2026-09-26,26,Pune,Bike,Wallet,Cancelled by Driver,134.74,4,21.9,Website
+R0587,2026-09-14,14,Mumbai,Auto,Cash,Completed,103.72,3,2.5,Website
+R0588,2026-09-18,18,Delhi,Mini,Cash,Cancelled by Customer,222.46,3,28.4,App
+R0589,2026-09-01,1,Hyderabad,Auto,Wallet,Completed,234.96,4,22.8,Call Center
+R0590,2026-09-10,10,Bangalore,SUV,UPI,Completed,81.32,3,9.7,App
+R0591,2026-09-10,10,Bangalore,SUV,Card,Completed,98.07,4,11.2,Call Center
+R0592,2026-09-11,11,Mumbai,Sedan,UPI,Cancelled by Customer,203.89,4,27.1,App
+R0593,2026-09-22,22,Delhi,Mini,UPI,Completed,96.91,5,12.3,Website
+R0594,2026-09-24,24,Pune,Mini,UPI,Completed,91.07,4,20.3,App
+R0595,2026-09-27,27,Delhi,Bike,UPI,Completed,170.00,5,7.0,Website
+R0596,2026-09-27,27,Pune,Bike,Card,Completed,139.33,3,12.5,Call Center
+R0597,2026-09-16,16,Hyderabad,Auto,UPI,Completed,83.78,3,32.1,App
+R0598,2026-09-21,21,Bangalore,Bike,Cash,Completed,203.86,3,5.6,App
+R0599,2026-09-21,21,Bangalore,Mini,Card,Completed,195.81,4,16.7,Call Center
+R0600,2026-09-29,29,Pune,SUV,Card,Completed,181.34,5,12.4,Website
+R0601,2026-09-30,30,Hyderabad,Mini,Wallet,Completed,133.95,4,26.2,Call Center
+R0602,2026-09-10,10,Delhi,SUV,Card,Cancelled by Customer,131.29,4,20.2,Call Center
+R0603,2026-09-11,11,Pune,Sedan,UPI,Cancelled by Driver,255.41,3,19.9,App
+R0604,2026-09-07,7,Hyderabad,SUV,Cash,Completed,209.15,4,20.6,Website
+R0605,2026-09-26,26,Mumbai,Mini,Card,Completed,153.00,3,32.2,Website
+R0606,2026-09-03,3,Pune,Sedan,UPI,Completed,191.46,4,34.0,Website
+R0607,2026-09-27,27,Delhi,Bike,UPI,Completed,162.57,3,2.1,Website
+R0608,2026-09-21,21,Mumbai,Bike,Cash,Completed,130.28,4,19.2,App
+R0609,2026-09-19,19,Mumbai,Mini,UPI,Completed,204.36,5,21.6,App
+R0610,2026-09-20,20,Pune,Sedan,Wallet,Completed,176.78,3,5.0,Website
+R0611,2026-09-23,23,Mumbai,SUV,Cash,Completed,239.02,4,30.2,Call Center
+R0612,2026-09-02,2,Delhi,Bike,Cash,Cancelled by Customer,186.60,3,10.2,App
+R0613,2026-09-16,16,Mumbai,Auto,UPI,Completed,137.80,4,30.8,Website
+R0614,2026-09-15,15,Hyderabad,SUV,Cash,Cancelled by Driver,196.45,4,29.2,Website
+R0615,2026-09-07,7,Hyderabad,Bike,Cash,Completed,224.75,4,18.9,App
+R0616,2026-09-04,4,Bangalore,Auto,UPI,Completed,141.89,4,13.7,App
+R0617,2026-09-25,25,Mumbai,Sedan,Card,Completed,209.46,4,7.9,App
+R0618,2026-09-15,15,Bangalore,Sedan,Wallet,Completed,125.96,4,18.2,Website
+R0619,2026-09-29,29,Bangalore,Bike,Wallet,Cancelled by Driver,103.76,4,18.0,App
+R0620,2026-09-11,11,Delhi,Auto,UPI,Completed,70.34,4,32.4,Call Center
+R0621,2026-09-28,28,Pune,Auto,Wallet,Completed,203.38,4,18.8,Website
+R0622,2026-09-05,5,Mumbai,Bike,UPI,Completed,178.84,4,27.2,App
+R0623,2026-09-27,27,Pune,Sedan,Cash,Cancelled by Driver,231.64,5,34.4,Call Center
+R0624,2026-09-22,22,Bangalore,Bike,Cash,Completed,216.46,5,34.8,App
+R0625,2026-09-24,24,Pune,Mini,Card,Completed,177.82,4,2.2,Website
+R0626,2026-09-23,23,Mumbai,Auto,Card,Completed,104.60,3,30.4,App
+R0627,2026-09-01,1,Pune,Sedan,Card,Completed,130.46,4,11.6,App
+R0628,2026-09-22,22,Pune,Auto,Wallet,Completed,223.67,5,29.8,App
+R0629,2026-09-11,11,Mumbai,Mini,Card,Cancelled by Customer,186.16,3,16.9,App
+R0630,2026-09-04,4,Delhi,Mini,Cash,Completed,191.53,4,18.7,Call Center
+R0631,2026-09-24,24,Hyderabad,Sedan,Card,Cancelled by Customer,89.78,3,11.6,Call Center
+R0632,2026-09-25,25,Hyderabad,Sedan,Cash,Completed,164.28,4,11.6,App
+R0633,2026-09-11,11,Hyderabad,Bike,UPI,Completed,132.92,3,7.8,Website
+R0634,2026-09-09,9,Pune,Mini,Wallet,Completed,84.78,4,19.1,Website
+R0635,2026-09-22,22,Bangalore,SUV,UPI,Completed,135.89,3,5.0,App
+R0636,2026-09-06,6,Mumbai,Mini,Card,Completed,130.71,5,10.3,App
+R0637,2026-09-20,20,Pune,Auto,UPI,Completed,190.88,4,20.0,App
+R0638,2026-09-07,7,Bangalore,Mini,Card,Completed,252.99,4,19.4,Call Center
+R0639,2026-09-11,11,Pune,SUV,Cash,Completed,226.12,4,10.2,Call Center
+R0640,2026-09-26,26,Hyderabad,SUV,Cash,Completed,197.30,4,10.6,App
+R0641,2026-09-06,6,Mumbai,Sedan,Cash,Completed,208.56,4,3.4,Call Center
+R0642,2026-09-29,29,Hyderabad,Bike,Wallet,Completed,133.79,4,12.5,Website
+R0643,2026-09-02,2,Mumbai,Bike,UPI,Completed,72.17,3,5.4,Website
+R0644,2026-09-29,29,Delhi,SUV,Cash,Completed,109.84,5,24.0,App
+R0645,2026-09-13,13,Hyderabad,Auto,UPI,Cancelled by Customer,201.70,4,2.8,Website
+R0646,2026-09-13,13,Hyderabad,Auto,Cash,Completed,136.59,3,7.1,Call Center
+R0647,2026-09-29,29,Hyderabad,Bike,UPI,Completed,219.53,4,21.2,Call Center
+R0648,2026-09-23,23,Hyderabad,SUV,Card,Completed,206.88,4,16.2,Website
+R0649,2026-09-10,10,Hyderabad,Bike,Cash,Completed,79.15,4,12.3,App
+R0650,2026-09-23,23,Mumbai,Sedan,Wallet,Completed,153.26,4,26.8,Call Center
+R0651,2026-09-03,3,Mumbai,Auto,Cash,Completed,149.73,4,34.1,Website
+R0652,2026-09-19,19,Pune,SUV,Cash,Completed,101.60,4,5.5,Call Center
+R0653,2026-09-15,15,Bangalore,Bike,Cash,Completed,148.66,3,4.3,Website
+R0654,2026-09-22,22,Pune,SUV,Cash,Completed,237.54,3,22.9,Website
+R0655,2026-09-16,16,Delhi,SUV,UPI,Completed,136.73,4,8.9,App
+R0656,2026-09-05,5,Pune,SUV,Card,Cancelled by Customer,141.32,5,30.3,Call Center
+R0657,2026-09-09,9,Delhi,Bike,Wallet,Cancelled by Driver,227.47,5,32.0,Website
+R0658,2026-09-06,6,Delhi,Auto,Card,Cancelled by Customer,219.86,3,24.8,Call Center
+R0659,2026-09-11,11,Mumbai,SUV,Wallet,Completed,179.83,4,27.8,Website
+R0660,2026-09-15,15,Pune,SUV,Wallet,Completed,214.07,4,17.6,App
+R0661,2026-09-16,16,Hyderabad,Bike,Cash,Completed,112.86,3,4.8,Website
+R0662,2026-09-15,15,Hyderabad,Bike,UPI,Cancelled by Customer,155.74,5,29.8,Website
+R0663,2026-09-25,25,Pune,Auto,UPI,Completed,221.85,5,12.9,Call Center
+R0664,2026-09-05,5,Mumbai,Bike,Card,Cancelled by Customer,76.35,4,18.3,Website
+R0665,2026-09-27,27,Mumbai,Mini,Wallet,Completed,73.81,5,25.3,App
+R0666,2026-09-11,11,Mumbai,Sedan,UPI,Completed,119.61,4,19.9,App
+R0667,2026-09-26,26,Mumbai,SUV,Cash,Cancelled by Driver,89.90,5,11.3,Website
+R0668,2026-09-13,13,Pune,Mini,Card,Completed,134.94,4,21.1,App
+R0669,2026-09-20,20,Pune,Auto,Wallet,Completed,238.71,4,9.3,App
+R0670,2026-09-16,16,Mumbai,SUV,UPI,Completed,100.57,3,14.0,Website
+R0671,2026-09-07,7,Hyderabad,Auto,Card,Completed,84.25,4,28.7,Call Center
+R0672,2026-09-14,14,Hyderabad,Sedan,Wallet,Completed,248.95,3,27.7,Website
+R0673,2026-09-19,19,Delhi,Bike,Wallet,Completed,255.83,4,27.8,Call Center
+R0674,2026-09-23,23,Pune,Bike,Card,Completed,134.21,4,9.0,Call Center
+R0675,2026-09-22,22,Delhi,Bike,Cash,Completed,257.20,5,3.6,Call Center
+R0676,2026-09-19,19,Pune,Auto,UPI,Cancelled by Driver,239.71,5,29.4,App
+R0677,2026-09-19,19,Bangalore,Bike,Card,Cancelled by Customer,203.86,5,21.3,Website
+R0678,2026-09-18,18,Pune,Bike,Wallet,Completed,151.95,4,4.3,Website
+R0679,2026-09-06,6,Hyderabad,SUV,Wallet,Completed,194.19,4,11.5,Website
+R0680,2026-09-03,3,Bangalore,Bike,UPI,Completed,185.39,5,21.3,Call Center
+R0681,2026-09-27,27,Hyderabad,Auto,Wallet,Completed,152.50,4,21.3,Website
+R0682,2026-09-11,11,Bangalore,Sedan,Wallet,Completed,80.18,3,17.8,Call Center
+R0683,2026-09-02,2,Mumbai,Auto,Wallet,Completed,132.91,3,4.1,App
+R0684,2026-09-29,29,Delhi,Sedan,Cash,Cancelled by Driver,255.14,4,20.7,Call Center
+R0685,2026-09-26,26,Pune,Sedan,Card,Completed,147.76,5,1.0,App
+R0686,2026-09-22,22,Delhi,Bike,Wallet,Cancelled by Customer,175.28,5,6.1,Call Center
+R0687,2026-09-10,10,Pune,Mini,Card,Completed,245.86,4,14.3,Call Center
+R0688,2026-09-15,15,Hyderabad,Sedan,UPI,Completed,172.62,4,7.7,Call Center
+R0689,2026-09-29,29,Bangalore,Bike,Card,Completed,195.51,4,11.8,Call Center
+R0690,2026-09-26,26,Bangalore,Mini,Card,Completed,126.51,4,32.0,Website
+R0691,2026-09-30,30,Pune,Mini,Cash,Completed,88.22,5,33.1,Website
+R0692,2026-09-23,23,Bangalore,Mini,Cash,Completed,144.65,4,34.4,Website
+R0693,2026-09-03,3,Mumbai,Sedan,UPI,Completed,174.44,4,20.8,Call Center
+R0694,2026-09-17,17,Bangalore,Bike,UPI,Completed,163.28,4,14.7,App
+R0695,2026-09-28,28,Delhi,Sedan,Wallet,Completed,80.36,4,11.0,Website
+R0696,2026-09-29,29,Bangalore,Sedan,Wallet,Completed,70.72,4,19.7,App
+R0697,2026-09-01,1,Hyderabad,Sedan,Card,Completed,86.65,5,24.9,Website
+R0698,2026-09-04,4,Bangalore,Mini,UPI,Cancelled by Driver,226.54,4,30.3,App
+R0699,2026-09-08,8,Mumbai,Sedan,Wallet,Cancelled by Customer,188.77,5,15.7,Call Center
+R0700,2026-09-13,13,Bangalore,Auto,Cash,Completed,161.26,4,22.3,Call Center
+R0701,2026-09-13,13,Bangalore,Bike,UPI,Completed,88.43,4,14.8,Website
+R0702,2026-09-18,18,Pune,Auto,Wallet,Cancelled by Customer,109.32,3,8.2,App
+R0703,2026-09-16,16,Pune,Bike,Cash,Completed,191.26,5,5.7,Call Center
+R0704,2026-09-13,13,Bangalore,Sedan,Cash,Completed,255.64,5,29.7,Website
+R0705,2026-09-27,27,Delhi,Auto,Card,Cancelled by Driver,159.98,5,15.2,Website
+R0706,2026-09-28,28,Delhi,Auto,Wallet,Completed,91.95,3,23.8,App
+R0707,2026-09-01,1,Mumbai,Auto,Wallet,Cancelled by Customer,219.13,5,3.4,App
+R0708,2026-09-05,5,Hyderabad,SUV,UPI,Completed,159.48,3,25.5,Website
+R0709,2026-09-22,22,Pune,SUV,Wallet,Completed,240.03,5,15.8,App
+R0710,2026-09-03,3,Mumbai,Sedan,UPI,Cancelled by Customer,120.35,3,5.7,Website
+R0711,2026-09-28,28,Hyderabad,Auto,Cash,Completed,191.95,4,16.5,Call Center
+R0712,2026-09-20,20,Pune,Mini,Card,Completed,143.63,4,32.6,Call Center
+R0713,2026-09-06,6,Mumbai,Mini,Cash,Completed,140.49,5,16.4,Website
+R0714,2026-09-18,18,Hyderabad,Auto,Card,Completed,142.47,5,28.9,Website
+R0715,2026-09-12,12,Hyderabad,Auto,Card,Cancelled by Driver,105.45,4,8.7,Website
+R0716,2026-09-20,20,Bangalore,Mini,Card,Cancelled by Driver,78.48,5,1.3,Website
+R0717,2026-09-28,28,Hyderabad,Bike,Wallet,Cancelled by Driver,153.55,4,25.9,Call Center
+R0718,2026-09-17,17,Bangalore,Auto,Card,Completed,120.05,5,10.2,Call Center
+R0719,2026-09-19,19,Delhi,Bike,Wallet,Completed,229.04,4,13.5,App
+R0720,2026-09-19,19,Delhi,Mini,Wallet,Completed,177.21,4,17.4,Website
+R0721,2026-09-04,4,Mumbai,Mini,Wallet,Completed,98.71,4,20.7,Call Center
+R0722,2026-09-03,3,Delhi,Mini,Wallet,Completed,202.33,3,5.8,Call Center
+R0723,2026-09-17,17,Pune,Mini,Wallet,Completed,88.37,3,34.4,Website
+R0724,2026-09-15,15,Delhi,Bike,Card,Cancelled by Customer,196.95,4,18.6,Call Center
+R0725,2026-09-29,29,Hyderabad,Sedan,UPI,Completed,223.55,3,21.7,App
+R0726,2026-09-16,16,Hyderabad,Auto,UPI,Completed,148.66,4,22.4,Call Center
+R0727,2026-09-22,22,Mumbai,Auto,Card,Cancelled by Customer,213.73,3,3.7,Call Center
+R0728,2026-09-18,18,Hyderabad,SUV,UPI,Completed,113.23,5,28.1,Website
+R0729,2026-09-20,20,Mumbai,SUV,Card,Completed,81.59,4,2.8,Website
+R0730,2026-09-18,18,Bangalore,SUV,UPI,Completed,143.55,3,27.5,Website
+R0731,2026-09-15,15,Bangalore,SUV,UPI,Completed,169.29,4,18.4,Website
+R0732,2026-09-19,19,Hyderabad,Bike,Cash,Cancelled by Customer,253.47,4,25.9,Website
+R0733,2026-09-12,12,Mumbai,SUV,UPI,Completed,200.54,4,33.7,Website
+R0734,2026-09-10,10,Mumbai,Auto,UPI,Completed,247.91,5,6.7,Call Center
+R0735,2026-09-30,30,Hyderabad,Auto,Cash,Completed,178.82,4,21.3,Website
+R0736,2026-09-24,24,Bangalore,Bike,UPI,Cancelled by Customer,114.77,3,27.7,Website
+R0737,2026-09-02,2,Pune,Auto,Card,Completed,126.78,4,22.4,Call Center
+R0738,2026-09-06,6,Delhi,Sedan,Cash,Completed,145.01,5,20.5,Call Center
+R0739,2026-09-10,10,Pune,SUV,Cash,Completed,232.25,4,28.5,Call Center
+R0740,2026-09-01,1,Pune,Auto,UPI,Completed,76.60,4,10.8,App
+R0741,2026-09-05,5,Bangalore,Bike,Card,Completed,178.53,4,18.2,Website
+R0742,2026-09-09,9,Pune,Bike,Wallet,Completed,168.20,3,5.5,Website
+R0743,2026-09-09,9,Mumbai,Mini,UPI,Completed,178.58,5,30.2,App
+R0744,2026-09-24,24,Delhi,Bike,Card,Cancelled by Customer,256.72,3,4.8,App
+R0745,2026-09-30,30,Mumbai,Bike,Wallet,Completed,98.02,5,21.1,App
+R0746,2026-09-22,22,Pune,Bike,UPI,Completed,250.36,4,16.2,App
+R0747,2026-09-09,9,Delhi,Auto,UPI,Completed,155.32,4,27.6,App
+R0748,2026-09-16,16,Mumbai,Bike,Cash,Cancelled by Driver,250.32,4,7.1,Call Center
+R0749,2026-09-28,28,Bangalore,Sedan,Cash,Cancelled by Driver,101.76,4,2.1,App
+R0750,2026-09-05,5,Pune,Sedan,Cash,Completed,110.26,4,21.2,App
+R0751,2026-09-27,27,Delhi,Sedan,Cash,Completed,106.62,4,17.9,Website
+R0752,2026-09-25,25,Delhi,SUV,Cash,Completed,78.11,5,14.0,Call Center
+R0753,2026-09-15,15,Mumbai,Bike,UPI,Completed,84.89,4,25.7,App
+R0754,2026-09-07,7,Delhi,Mini,Wallet,Completed,199.79,3,20.6,Website
+R0755,2026-09-02,2,Mumbai,Bike,Cash,Completed,108.36,4,22.8,App
+R0756,2026-09-02,2,Hyderabad,Bike,Wallet,Completed,226.29,3,6.7,Website
+R0757,2026-09-16,16,Delhi,Bike,Card,Cancelled by Driver,98.10,4,11.2,Call Center
+R0758,2026-09-25,25,Bangalore,SUV,Cash,Completed,183.06,3,32.4,App
+R0759,2026-09-13,13,Mumbai,Sedan,UPI,Completed,130.75,4,24.2,Website
+R0760,2026-09-16,16,Hyderabad,Auto,Wallet,Completed,208.15,3,9.9,Call Center
+R0761,2026-09-28,28,Delhi,Bike,UPI,Completed,223.40,3,15.8,Website
+R0762,2026-09-30,30,Hyderabad,Bike,Cash,Cancelled by Driver,86.54,3,28.1,Website
+R0763,2026-09-22,22,Hyderabad,SUV,Card,Completed,175.71,4,11.7,Call Center
+R0764,2026-09-22,22,Mumbai,Auto,Wallet,Completed,174.89,4,33.5,App
+R0765,2026-09-30,30,Mumbai,Bike,Card,Completed,232.76,3,19.1,Website
+R0766,2026-09-28,28,Bangalore,Bike,UPI,Completed,168.74,4,15.7,Call Center
+R0767,2026-09-28,28,Pune,SUV,Cash,Completed,244.26,4,10.3,Website
+R0768,2026-09-09,9,Delhi,Bike,UPI,Cancelled by Driver,72.35,5,28.3,Website
+R0769,2026-09-21,21,Bangalore,Mini,Card,Cancelled by Customer,203.08,5,20.9,Website
+R0770,2026-09-25,25,Delhi,SUV,UPI,Completed,181.64,3,24.0,App
+R0771,2026-09-24,24,Hyderabad,Mini,Cash,Cancelled by Driver,218.52,3,23.8,App
+R0772,2026-09-17,17,Hyderabad,Bike,Wallet,Completed,91.38,4,12.5,Call Center
+R0773,2026-09-06,6,Hyderabad,Sedan,Card,Completed,98.43,3,11.7,App
+R0774,2026-09-22,22,Hyderabad,SUV,Card,Completed,177.65,4,1.3,App
+R0775,2026-09-01,1,Bangalore,Mini,Cash,Completed,180.71,4,15.0,Call Center
+R0776,2026-09-04,4,Pune,Mini,Wallet,Completed,253.32,4,24.3,Website
+R0777,2026-09-08,8,Mumbai,Sedan,Wallet,Completed,89.04,5,25.7,Website
+R0778,2026-09-07,7,Pune,Sedan,Wallet,Completed,90.07,4,2.2,Call Center
+R0779,2026-09-03,3,Pune,Mini,Cash,Completed,218.11,4,2.9,Call Center
+R0780,2026-09-22,22,Bangalore,Mini,UPI,Completed,219.29,4,31.4,App
+R0781,2026-09-20,20,Bangalore,Sedan,Wallet,Completed,234.82,3,22.7,Call Center
+R0782,2026-09-04,4,Mumbai,SUV,UPI,Completed,237.23,3,3.9,Call Center
+R0783,2026-09-05,5,Mumbai,Bike,Wallet,Cancelled by Customer,236.80,5,13.8,Call Center
+R0784,2026-09-19,19,Mumbai,Bike,UPI,Cancelled by Customer,120.19,5,28.3,App
+R0785,2026-09-29,29,Delhi,SUV,Card,Cancelled by Customer,194.41,4,4.8,App
+R0786,2026-09-09,9,Pune,Mini,Cash,Cancelled by Driver,178.68,5,11.0,Call Center
+R0787,2026-09-30,30,Mumbai,Bike,UPI,Cancelled by Customer,159.88,4,3.6,Website
+R0788,2026-09-30,30,Pune,Bike,Cash,Completed,102.72,4,34.8,Website
+R0789,2026-09-23,23,Hyderabad,Auto,Card,Completed,146.57,4,31.7,Website
+R0790,2026-09-09,9,Hyderabad,Auto,Wallet,Completed,187.47,5,6.5,App
+R0791,2026-09-09,9,Mumbai,Mini,Wallet,Completed,199.35,4,27.4,Website
+R0792,2026-09-13,13,Hyderabad,Mini,Cash,Completed,146.33,3,12.3,App
+R0793,2026-09-09,9,Mumbai,SUV,Card,Completed,145.20,4,33.5,Website
+R0794,2026-09-06,6,Bangalore,SUV,Wallet,Completed,237.00,3,16.0,Website
+R0795,2026-09-30,30,Bangalore,Mini,Cash,Completed,201.20,5,7.8,Website
+R0796,2026-09-06,6,Bangalore,SUV,UPI,Completed,79.37,5,22.9,App
+R0797,2026-09-05,5,Hyderabad,Bike,UPI,Completed,160.29,4,19.4,Website
+R0798,2026-09-07,7,Mumbai,SUV,Wallet,Cancelled by Customer,121.03,4,21.9,App
+R0799,2026-09-30,30,Mumbai,Sedan,Card,Completed,140.76,4,16.0,Website
+R0800,2026-09-04,4,Pune,Mini,Wallet,Completed,134.19,4,2.2,App
