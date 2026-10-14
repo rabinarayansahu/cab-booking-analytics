@@ -6,7 +6,7 @@ This project transforms ride booking data into meaningful insights through inter
 
 ## 📊 Dashboard Preview
 
-![Ride Sharing and Cab Booking Analytics Dashboard](dashboard.png)
+![Ride Sharing and Cab Booking Analytics Dashboard](dashboard.jpeg)
 
 ## 🎯 Project Objectives
 
@@ -102,7 +102,7 @@ These filters allow users to explore the data from different perspectives and co
 cab-booking-analytics/
 │
 ├── README.md
-├── dashboard.png
+├── dashboard.jpeg
 ├── cab_booking_data.csv
 └── Cab booking analytics.pbix
 ```
@@ -110,7 +110,7 @@ cab-booking-analytics/
 | File | Description |
 |---|---|
 | `README.md` | Project documentation |
-| `dashboard.png` | Dashboard screenshot displayed in this README |
+| `dashboard.jpeg` | Dashboard screenshot displayed in this README |
 | `cab_booking_data.csv` | CSV dataset used for analysis, if applicable |
 | `Cab booking analytics.pbix` | Power BI report file |
 
